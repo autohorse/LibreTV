@@ -3,7 +3,7 @@ const CUSTOMER_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
     }
-  aiqiyi: {
+    aiqiyi: {
         api: 'https://iqiyizyapi.com/api.php/provide/vod',
         name: 'TV-爱奇艺',
     }
